@@ -1,6 +1,6 @@
 
 import React from "react";
-import React from "./style/App.css";
+import "./../styles/App.css";
 
 
 const App=()=>{
